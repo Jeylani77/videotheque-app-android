@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideothequeEdacy</string>
+    <string name="nom">Nom Film</string>
+    <string name="synopsis">Synopsis Film</string>
+    <string name="annee">Année Film</string>
+    <string name="type">Type Film</string>
+    <string name="prix">Prix Film</string>
+</resources>
